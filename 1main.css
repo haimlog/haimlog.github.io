@@ -1,0 +1,44 @@
+.navbar li{
+	padding-right: 15px;
+}
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  font-size: 16px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+
+.navbar-brand {
+	    font-size: 2rem;
+}
+
+.container  {
+
+	text-align:  center;
+
+
+
+}
+.lol h1 {
+	padding-top: 165px;
+}
+.lol p{
+	padding-top: 10px;
+}
+.buttons {
+	padding-top: 20px;
+}
+.instruction h6 {
+ padding-top: 20px;
+}
+.lolzs{
+	padding-top: 220px;
+}
+.lol {
+	padding-right: 300px;
+}
